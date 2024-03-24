@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "name": "stef",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+   "author":"Stegio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeStegio/Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeStegio/Backend/issues"
+  },
+  "homepage": "https://github.com/DeStegio/Backend#readme",
+  "description": ""
+}
